@@ -1,0 +1,12 @@
+[submodule "SafariSolaceResortsHelper"]
+	path = SafariSolaceResortsHelper
+	url = https://github.com/Bednaz98/SafariSolaceResortsHelper.git
+[submodule "SafariSolacePal"]
+	path = SafariSolacePal
+	url = https://github.com/Bednaz98/SafariSolacePal.git
+[submodule "SafariSolaceIT"]
+	path = SafariSolaceIT
+	url = https://github.com/Bednaz98/SafariSolaceIT.git
+[submodule "Stylingtools"]
+	path = Stylingtools
+	url = https://github.com/Bednaz98/Stylingtools.git
