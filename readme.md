@@ -71,4 +71,4 @@ Developer [John Patrick](https://github.com/jpcollandra)
 
 Developer [Brandon Zander](https://github.com/sdsmt05)
 
-## License
+## [License](https://github.com/Bednaz98/SafariSolaceMeta/blob/main/LICENSE)
